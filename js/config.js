@@ -119,6 +119,6 @@ const CONFIG_PROJECTS = [
    Ganti kode warna hex sesuai selera.
    ---------------------------------------------------------------- */
 const CONFIG_THEME = {
-  accent:  "#6afe3d",   // warna utama (ungu)
-  accent2: "rgba(177, 24, 68, 0.35)",   // warna kedua (pink)
+  accent:  "#ff69b4",   // warna utama 
+  accent2: "#069494",   // warna kedua 
 };
