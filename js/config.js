@@ -30,7 +30,7 @@ const CONFIG_PROFILE = {
   photo:      "img/16.jpg", // ganti dengan path foto kamu atau kosongkan ""
 
   // Link tombol "Unduh CV" — ganti dengan file CV 
-  cvLink:     "files/17_GRENDY ARVEL PUTRA AGUSTI_XPPLG2.pdf",     
+  cvLink:     "files/CV_Grendy Arvel Putra Agusti.pdf",     
 };
 
 
